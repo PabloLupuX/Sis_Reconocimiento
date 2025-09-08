@@ -1,4 +1,4 @@
-<script setup>
+<script lang="ts">
 import { Head, Link } from '@inertiajs/vue3';
 import Button from 'primevue/button';
 function smoothScroll(id) {

@@ -1,4 +1,4 @@
-<script setup>
+<script lang="ts">
 import { useLayout } from '@/layout/composables/layout';
 import { onMounted, ref, watch } from 'vue';
 

@@ -1,4 +1,4 @@
-<script setup>
+<script lang="ts">
 import { ProductService } from '@/service/ProductService';
 import { onMounted, ref } from 'vue';
 

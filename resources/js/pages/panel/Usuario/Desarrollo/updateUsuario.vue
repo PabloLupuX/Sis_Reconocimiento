@@ -1,4 +1,4 @@
-<script setup>
+<script lang="ts">
 import { ref, watch, onMounted } from 'vue';
 import Dialog from 'primevue/dialog';
 import InputText from 'primevue/inputtext';

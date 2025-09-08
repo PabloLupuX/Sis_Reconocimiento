@@ -44,7 +44,7 @@
         </div>
     </AppLayout>
 </template>
-<script setup>
+<script lang="ts">
 import { ref, onMounted } from 'vue';
 import { Head, usePage } from '@inertiajs/vue3';
 import AppLayout from '@/layout/AppLayout.vue';

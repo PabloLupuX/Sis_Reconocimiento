@@ -94,7 +94,7 @@
 </Dialog>
 </template>
 
-<script setup>
+<script lang="ts">
 import { ref, watch } from 'vue';
 import Dialog from 'primevue/dialog';
 import Button from 'primevue/button';

@@ -1,4 +1,4 @@
-<script setup>
+<script lang="ts">
 import { computed } from 'vue';
 import { usePage } from '@inertiajs/vue3';
 import AppMenuItem from './AppMenuItem.vue';

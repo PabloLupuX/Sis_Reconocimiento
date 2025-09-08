@@ -1,4 +1,4 @@
-<script setup>
+<script lang="ts">
 import FloatingConfigurator from '@/components/FloatingConfigurator.vue';
 import { Head, useForm } from '@inertiajs/vue3';
 import { ref } from 'vue';

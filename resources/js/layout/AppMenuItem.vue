@@ -1,4 +1,4 @@
-<script setup>
+<script lang="ts">
 import { useLayout } from '@/layout/composables/layout';
 import { onBeforeMount, ref, watch, computed } from 'vue';
 import { usePage, Link } from '@inertiajs/vue3';

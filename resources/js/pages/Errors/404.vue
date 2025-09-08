@@ -1,4 +1,4 @@
-<script setup>
+<script lang="ts">
 import FloatingConfigurator from '@/components/FloatingConfigurator.vue';
 import Button from 'primevue/button';
 import { Head, Link } from '@inertiajs/vue3';

@@ -1,4 +1,4 @@
-<script setup>
+<script lang="ts">
 import { useLayout } from '@/layout/composables/layout';
 import { $t, updatePreset, updateSurfacePalette } from '@primeuix/themes';
 import Aura from '@primeuix/themes/aura';

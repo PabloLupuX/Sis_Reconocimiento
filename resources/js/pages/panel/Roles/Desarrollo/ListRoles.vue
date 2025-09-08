@@ -51,7 +51,7 @@
     </div>
 </template>
 
-<script setup>
+<script lang="ts">
 import { ref, onMounted, watch } from 'vue';
 import axios from 'axios';
 import { FilterMatchMode } from '@primevue/core/api';

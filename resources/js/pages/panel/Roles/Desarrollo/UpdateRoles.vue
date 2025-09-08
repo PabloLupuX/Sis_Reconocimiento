@@ -59,7 +59,7 @@
     </Dialog>
 </template>
 
-<script setup>
+<script lang="ts">
 import { ref, watch, onMounted, computed } from 'vue';
 import axios from 'axios';
 import Dialog from 'primevue/dialog';

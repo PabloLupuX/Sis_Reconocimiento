@@ -31,7 +31,7 @@
     </div>
 </template>
 
-<script setup lang="ts">
+<script lang="ts">
 import { ref } from 'vue'
 import  Button  from 'primevue/button'
 //import { FileBarChart, FileDown, FileUp } from 'lucide-vue-next'

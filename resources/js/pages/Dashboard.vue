@@ -1,4 +1,4 @@
-<script setup>
+<script lang="ts">
 import AppLayout from '@/layout/AppLayout.vue';
 import { Head, usePage } from '@inertiajs/vue3';
 import axios from 'axios';

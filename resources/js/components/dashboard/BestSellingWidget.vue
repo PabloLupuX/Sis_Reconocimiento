@@ -1,4 +1,4 @@
-<script setup>
+<script lang="ts">
 import { ref } from 'vue';
 
 const menu = ref(null);

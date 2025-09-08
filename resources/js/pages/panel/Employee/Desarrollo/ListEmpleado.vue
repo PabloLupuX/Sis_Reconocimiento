@@ -68,7 +68,7 @@
     </Dialog>
 </template>
 
-<script setup>
+<script lang="ts">
 import { ref, onMounted, watch } from 'vue';
 import Button from 'primevue/button';
 import DataTable from 'primevue/datatable';
